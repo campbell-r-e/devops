@@ -12,3 +12,4 @@ function main(){
     const w = fibonacci(x);
     console.log(w);}
 }
+module.exports = { fibonacci };

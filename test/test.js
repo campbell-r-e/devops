@@ -1,4 +1,4 @@
-var main = require('..index/index');
+var main = require('../index');
 var assert = require('assert');
 describe('Regular fibonacci value', function() {
     it('should return 5 for Fib(5)', function() {

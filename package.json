@@ -9,6 +9,6 @@
   "author": "Campbell Reed",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^8.2.1"
+    "mocha": "^11.7.1"
   }
 }
