@@ -12,3 +12,10 @@ describe('First two terms', function() {
       assert.strictEqual(main.fibonacci(1), 1);
     });
 });
+
+describe('Fibonacci can not have a negative number', function() {
+  it('should return undefined for -1', function() {
+      assert.strictEqual(main.fibonacci(-1), "undefined");
+    
+    });
+});
